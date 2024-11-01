@@ -15,3 +15,9 @@ public class MainController {
     @FXML
     private Button btnSalvar;
 
+    @FXML
+    public void onBtnSalvarAction() {
+    System.out.println("Clique Salvar");
+
+    }
+}
