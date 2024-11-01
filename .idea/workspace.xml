@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e8779ec-a409-48af-95f5-28cdebc9cfe1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/usuario/view/MainView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/usuario/view/MainView.fxml" afterDir="false" />
+    <list default="true" id="8e8779ec-a409-48af-95f5-28cdebc9cfe1" name="Changes" comment="alteração do visual com o ScenneBuild">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/usuario/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/usuario/controller/MainController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,21 @@
       <option name="presentableId" value="Default" />
       <updated>1730500940215</updated>
     </task>
+    <task id="LOCAL-00001" summary="alteração do visual com o ScenneBuild">
+      <created>1730502857457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730502857457</updated>
+    </task>
+    <task id="LOCAL-00002" summary="alteração do visual com o ScenneBuild">
+      <created>1730502869658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730502869658</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,5 +78,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alteração do visual" />
+    <MESSAGE value="alteração do visual com o ScenneBuild" />
+    <option name="LAST_COMMIT_MESSAGE" value="alteração do visual com o ScenneBuild" />
   </component>
 </project>

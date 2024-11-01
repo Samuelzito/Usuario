@@ -1,14 +1,17 @@
 package org.usuario.controller;
 
 import javafx.fxml.FXML;
+import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.control.TextField;
 
 public class MainController {
     @FXML
-    private Label welcomeText;
+    private TextField txtNome;
 
     @FXML
-    protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
-    }
-}
+    private TextField txtPasword;
+
+    @FXML
+    private Button btnSalvar;
+
