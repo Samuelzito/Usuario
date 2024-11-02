@@ -12,11 +12,11 @@ import java.io.IOException;
 public class AppMain extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        String pathMain="C:\\Users\\Unifan\\Downloads\\dev\\usuario\\src\\main\\java\\org\\usuario\\view\\MainView.fxml";
+        String pathMain="C:\\Users\\Unifan\\Downloads\\trabalho\\src\\main\\java\\org\\usuario\\view\\MainView.fxml";
         FXMLLoader fxmlLoader = new FXMLLoader();
         Parent root = fxmlLoader.load(new FileInputStream(pathMain));
 
-        Scene scene = new Scene(root, 800, 550);
+        Scene scene = new Scene(root, 600, 800);
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
